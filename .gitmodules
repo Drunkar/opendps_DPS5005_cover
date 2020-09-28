@@ -1,0 +1,3 @@
+[submodule "openscad_modules"]
+	path = openscad_modules
+	url = git@github.com:Drunkar/openscad_modules.git
